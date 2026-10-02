@@ -1,0 +1,6 @@
+{
+  "name": "E-Booklet PSMB 2027/2028 - Sumatera Thawalib Parabek",
+  "description": "Buku Digital Interaktif Penerimaan Santri & Mahasantri Baru Pondok Pesantren Sumatera Thawalib Parabek Tahun Ajaran 2027/2028.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
